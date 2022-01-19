@@ -4,7 +4,7 @@ MAINTAINER Yauri Attamimi <yauri.attamimi@automate.id>
 
 WORKDIR /bin
 
-ADD curl-aarch64 curl
+ADD curl-amd64 curl
 
 RUN chmod u+x /bin/curl
 
