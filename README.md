@@ -10,7 +10,7 @@ docker build -t yauritux/busybox-curl .
 ```
 4. Run the image by using the following command:
 ```
-docker run -it yauritux/busybox-curl
+docker container run -it --rm yauritux/busybox-curl
 ```
 
 # LICENSE
