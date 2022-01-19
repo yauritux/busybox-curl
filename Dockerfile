@@ -1,6 +1,6 @@
 FROM busybox:latest
 
-MAINTAINER Yauri Attamimi <yauri.attamimi@automate.id>
+MAINTAINER Yauri Attamimi <yauritux@gmail.com>
 
 WORKDIR /bin
 
